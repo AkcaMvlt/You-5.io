@@ -22,15 +22,11 @@ const channelsData = [
         source: "https://www.youtube.com/embed/82O6yOy_XwE?autoplay=1&mute=1"
     },
     { 
-
-
-
-
-        id: "T4",
-        name: "T4",
+        id: "Atv",
+        name: "Atv",
         visibilidad: "",
         tipo: "video",
-        source: "https://www.youtube.com/embed/EKBffVBn7oTyJTXU?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/zmFaUZwKVF4?autoplay=1&mute=1"
     },/*
     { 
         id: "chv",
@@ -118,7 +114,7 @@ const channelsData = [
           <div id="video" class="video-container" style="--aspect-ratio: 16 / 9;">
               <iframe id="player" width="100%" src="${channel.source}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           </div>
-          <div class="channel-name"><h4>${channel.name}</h4><a target="_BLANK" href="${channel.source}"><span class="new-window"></span><img width="16px" src="assets/img/Icon material-open-in-new.svg"></a></div>
+          <div class="channel-name"><h4>${channel.name}</h4><a target="_BLANK" href="${channel.source}"><span class="new-window">Ver en otra ventana</span><img width="16px" src="assets/img/Icon material-open-in-new.svg"></a></div>
       </div>
     `;
   }

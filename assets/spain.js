@@ -21,6 +21,23 @@ const channelsData = [
         visibilidad: "",
         source: "https://www.youtube.com/embed/ouuCjEjyKVI?autoplay=1&mute=1"
     },
+
+
+    { 
+        id: "Show1",
+        name: "Show1",
+        visibilidad: "",
+        source: "https://www.youtube.com/embed/VWLyJsB3bWeiU3mN?autoplay=1&mute=1"
+    },
+
+    { 
+        id: "Atv1",
+        name: "Atv1",
+        visibilidad: "",
+        source: "https://www.youtube.com/embed/dIZ4Gi3lJ5j6MVfV?autoplay=1&mute=1"
+    },
+
+
     { 
         id: "Atv",
         name: "Atv",

@@ -9,17 +9,17 @@ const channelsData = [
       source: "https://www.youtube.com/embed/82O6yOy_XwE?autoplay=1&mute=1"
     },*/
     { 
-      id: "T2",
-      name: "T2",
+      id: "Star",
+      name: "Star",
       visibilidad: "",
       tipo: "video",
       source: "https://www.youtube.com/embed/82O6yOy_XwE?autoplay=1&mute=1"
     },
     { 
-        id: "T3",
-        name: "T3",
+        id: "Show",
+        name: "Show",
         visibilidad: "",
-        source: "https://www.youtube.com/embed/82O6yOy_XwE?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/ouuCjEjyKVI?autoplay=1&mute=1"
     },
     { 
         id: "Atv",

@@ -26,7 +26,7 @@ const channelsData = [
         id: "Atv",
         name: "Atv",
         visibilidad: "",
-        source: "https://www.youtube.com/embed/zmFaUZwKVF4?autoplay=1&mute=1"
+        source: "https://www.youtube.com/embed/NwVpyf46p7C4Cet?autoplay=1&mute=1"
     },
 
 
